@@ -1,0 +1,14 @@
+C:\Users\Basis Tecnologia\source\repos\Clockwatch\Clockwatch\bin\Debug\Clockwatch.exe.config
+C:\Users\Basis Tecnologia\source\repos\Clockwatch\Clockwatch\bin\Debug\Clockwatch.exe
+C:\Users\Basis Tecnologia\source\repos\Clockwatch\Clockwatch\bin\Debug\Clockwatch.pdb
+C:\Users\Basis Tecnologia\source\repos\Clockwatch\Clockwatch\obj\Debug\Clockwatch.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\Clockwatch\Clockwatch\obj\Debug\Clockwatch.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\Clockwatch\Clockwatch\obj\Debug\Clockwatch.exe
+C:\Users\Basis Tecnologia\source\repos\Clockwatch\Clockwatch\obj\Debug\Clockwatch.pdb
+C:\Users\Basis Tecnologia\Desktop\Clockwatch\Clockwatch\bin\Debug\Clockwatch.exe.config
+C:\Users\Basis Tecnologia\Desktop\Clockwatch\Clockwatch\bin\Debug\Clockwatch.exe
+C:\Users\Basis Tecnologia\Desktop\Clockwatch\Clockwatch\bin\Debug\Clockwatch.pdb
+C:\Users\Basis Tecnologia\Desktop\Clockwatch\Clockwatch\obj\Debug\Clockwatch.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\Desktop\Clockwatch\Clockwatch\obj\Debug\Clockwatch.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\Desktop\Clockwatch\Clockwatch\obj\Debug\Clockwatch.exe
+C:\Users\Basis Tecnologia\Desktop\Clockwatch\Clockwatch\obj\Debug\Clockwatch.pdb
